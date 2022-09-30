@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roberto and live in Spain
-- 👀 Interests: of course programming, learning new technologies like Machine Learning, Web applications, sports, reading ...
+- 👀 Interests: of course programming, learning new technologies (Machine Learning, Web applications, CI/CD, devops), sports, reading ...
 - 📫 How to reach me: contact me by email robertoribes@hotmail.com
 
 <!---
